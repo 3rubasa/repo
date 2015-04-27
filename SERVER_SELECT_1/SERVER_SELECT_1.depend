@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1429035759 source:/home/dima/LABORATORY/project/repo/SERVER_SELECT_1/main.cpp
+	"stdafx.h"
+	"winsock.h"
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netinet/tcp.h>
+	<netdb.h>
+	<errno.h>
+	<unistd.h>
+	<fcntl.h>
+	<signal.h>
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<list>
+	<cstring>
+	"time.h"
+	<stdlib.h>
+	<ctime>
+
